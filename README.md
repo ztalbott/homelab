@@ -45,7 +45,3 @@ flowchart TD
     PVE -.-> OPN
     HDD[("Bulk HDD storage")] --- JF
 ```
-
-## Adding a topic
-
-Copy [`_template/`](_template/) to a new top-level folder, fill it in, and add a row to the tables above.
